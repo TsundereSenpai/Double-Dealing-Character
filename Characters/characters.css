@@ -9,6 +9,7 @@ body {
     left: 3%;
     top: 5%;
     width: 95%;
+    margin-bottom: 100px;
 }
 
 .cT {
@@ -34,6 +35,8 @@ img.cha {
 	top: 0px;
 	width: 430px;
 	border: 3px solid #000000;
+	background-color: #6F79A0;
+	border-radius: 24px;
 }
 
 div.Name {
@@ -63,6 +66,7 @@ div.Name {
 	left: 2%;
 	top: 160px;
 	width: 60%;
+	margin-bottom: 100px;
 }
 
 div.contain {
