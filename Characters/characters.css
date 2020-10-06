@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&family=Sawarabi+Mincho&display=swap');
+
+
+body {
+    background-color: #171C2E;
+    font-family: 'PT Sans Narrow', sans-serif;
+    color: #D6DBEE;
+    position: absolute;
+    left: 3%;
+    top: 5%;
+    width: 95%;
+    border: 3px solid green; 
+}
+
+.cT {
+	color: #FFFFFF;
+	position: relative;
+	top: 3px;
+	left: 30px;
+	font-size: 20px
+}
+
+.r {
+	position: relative;
+	left: -5%;
+	top: 60px;
+	width: 500px;
+	border: 3px solid pink;
+	text-align: center;
+	float: right;
+	font-size: 35px;
+}
+
+img.cha {
+	position: relative;
+	top: 0px;
+	width: 430px;
+}
+
+div.Name {
+	position: relative;
+	font-size: 50px;
+	left: 2%;
+    top: 40px;
+    width: 25%;
+    height: 60px;
+    border: 3px solid green; 
+}
+
+.subHeading {
+	position: relative;
+	font-size: 30px;
+	top: 5px;
+	border: 3px solid green;
+}
+
+.description {
+	font-size: 20px;
+	position: relative;
+	top: 25px;
+	border: 3px solid green;
+}
+
+.d {
+	position: relative;
+	font: 25px;
+	left: 2%;
+	top: 160px;
+	width: 60%;
+	border: 3px solid green; 
+}
+
+div.contain {
+	position: relative;
+	width: 80%
+	height: 80%;
+	border: 3px solid yellow;
+}
+
+hr.hr {
+	border: 3px solid #66ccff;
+}
