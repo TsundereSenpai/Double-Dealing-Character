@@ -3,11 +3,14 @@
 
 body {
     background-color: #171C2E;
-    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+div.contain{
+	font-family: 'PT Sans Narrow', sans-serif;
     color: #D6DBEE;
     position: absolute;
     left: 3%;
-    top: 5%;
+    top: 10%;
     width: 95%;
     margin-bottom: 100px;
 }
